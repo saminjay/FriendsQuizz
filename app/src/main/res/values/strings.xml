@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">F.R.I.E.N.D.S Quizz</string>
+    <string name="question_1">1.  When the friends are playing football in the park one thanksgiving what nationality is the girl Joey and Chandler fight over?</string>
+    <string name="question_1_option_1">Dutch</string>
+    <string name="question_1_option_2">German</string>
+    <string name="question_1_option_3">Swedish</string>
+    <string name="question_1_option_4">Russian</string>
+
+    <string name="question_2">2.  In \"The One With Ross\'s Sandwich\" what does he call the gravy soaked piece of bread in the centre of his sandwich?</string>
+    <string name="question_2_option_1">Central Moistener</string>
+    <string name="question_2_option_2">Gravy lake</string>
+    <string name="question_2_option_3">Moist Maker</string>
+    <string name="question_2_option_4">The Reviver</string>
+
+    <string name="question_3">3.  What is Rachel\'s father\'s nickname for Ross?</string>
+    <string name="question_3_option_1">The Paleontologist Guy</string>
+    <string name="question_3_option_2">The Kid That Married The Lesbian</string>
+    <string name="question_3_option_3">Wethead</string>
+    <string name="question_3_option_4">Wetpants</string>
+
+    <string name="question_4">4.  What is Chandler Bing\'s job?</string>
+
+    <string name="question_5">5.  In Chandler M. Bing, What does \'M\' stands for?</string>
+
+    <string name="question_6">6.  Choose the correct love interests that happened in the series</string>
+    <string name="question_6_option_1">Monica and Chandler</string>
+    <string name="question_6_option_2">Monica and Joey</string>
+    <string name="question_6_option_3">Ross and Rachel</string>
+    <string name="question_6_option_4">Ross and Phoebe</string>
+    <string name="question_6_option_5">Joey and Rachel</string>
+    <string name="question_6_option_6">Joey and Phoebe</string>
+    <string name="question_6_option_7">Chandler and Rachel</string>
+    <string name="question_6_option_8">Phoebe and Chandler</string>
+
+    <string name="name">Your Name</string>
+</resources>
